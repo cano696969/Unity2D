@@ -112,9 +112,17 @@
 
 | Espacio de Trabajo | Vista Previa |
 | ------------------- | ------------ |
-| [Espacio 1]([URL_Espacio_1](https://www.figma.com/file/BGvopK6bY3Qu4n6AKdc0PQ/ADDD--Game-UI---Lower-Decks-2D-Game-(Community)?type=design&node-id=741%3A238&mode=design&t=iwMebSNROxzwp88P-1)) | ![Vista Previa 1](URL_Imagen_1) |
-| [Espacio 2]([URL_Espacio_2](https://www.figma.com/file/rWEsMv1Ws8pwVuTi2wD63N/Gaming-Website-UI-Landing-Page-AC-Valhalla-(Community)?type=design&node-id=206%3A16279&mode=design&t=od0Oq8T0aWvzD4he-1)) | ![Vista Previa 2](URL_Imagen_2) |
-| [Espacio 3](https://www.figma.com/file/kr28KguaGgQPt4pEFrlj42/Figma-Unity-Bridge-3D?type=design&node-id=806%3A2575&mode=design&t=9Gq9uQAaHrvjXbaw-1) | ![Vista Previa 3](URL_Imagen_3) |
+| [ADDD - Game UI - Lower Decks 2D Game](https://www.figma.com/file/BGvopK6bY3Qu4n6AKdc0PQ/ADDD--Game-UI---Lower-Decks-2D-Game-(Community)?type=design&node-id=741%3A238&mode=design&t=iwMebSNROxzwp88P-1) | ![Vista Previa ADDD](URL_Imagen_1) |
+| [Game Menu](https://www.figma.com/file/AX7pqJTUHdZfSshz2bMrZ5/Game-Menu-(Community)?type=design&node-id=0%3A1&mode=design&t=mDWbOS8CdgzU9vkl-1) | ![Vista Previa Game Menu](URL_Imagen_2) |
+| [Figma Unity Bridge 3D](https://www.figma.com/file/kr28KguaGgQPt4pEFrlj42/Figma-Unity-Bridge-3D?type=design&node-id=806%3A2575&mode=design&t=9Gq9uQAaHrvjXbaw-1) | ![Vista Previa Figma Unity Bridge 3D](URL_Imagen_3) |
+| [Gaming Website UI Landing Page AC Valhalla](https://www.figma.com/file/rWEsMv1Ws8pwVuTi2wD63N/Gaming-Website-UI-Landing-Page-AC-Valhalla-(Community)?type=design&node-id=206%3A16279&mode=design&t=od0Oq8T0aWvzD4he-1) | ![Vista Previa Gaming Website UI](URL_Imagen_4) |
+| [Pokémon Unite - Draft Simulator](https://www.figma.com/file/k6F3OlXInwd8kV8QBcr643/Pok%C3%A9mon-Unite---Draft-Simulator-(Community)?type=design&node-id=135%3A2193&mode=design&t=Ob9fLNvW4jjFFzZf-1) | ![Vista Previa Pokémon Unite](URL_Imagen_5) |
+
+### Instrucciones
+1. Haga clic en el nombre del espacio de trabajo para acceder a Figma.
+2. Haga clic en la vista previa para obtener una imagen más grande.
+
+Asegúrate de reemplazar "URL_Imagen_1", "URL_Imagen_2", etc., con las URLs reales de las imágenes de vista previa en Figma.
 
 ### Instrucciones
 1. Haga clic en el nombre del espacio de trabajo para acceder a Figma.
