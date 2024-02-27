@@ -118,66 +118,10 @@
 | [Gaming Website UI Landing Page AC Valhalla](https://www.figma.com/file/rWEsMv1Ws8pwVuTi2wD63N/Gaming-Website-UI-Landing-Page-AC-Valhalla-(Community)?type=design&node-id=206%3A16279&mode=design&t=od0Oq8T0aWvzD4he-1) | ![Vista Previa Gaming Website UI](URL_Imagen_4) |
 | [Pokémon Unite - Draft Simulator](https://www.figma.com/file/k6F3OlXInwd8kV8QBcr643/Pok%C3%A9mon-Unite---Draft-Simulator-(Community)?type=design&node-id=135%3A2193&mode=design&t=Ob9fLNvW4jjFFzZf-1) | ![Vista Previa Pokémon Unite](URL_Imagen_5) |
 
-### Instrucciones
-1. Haga clic en el nombre del espacio de trabajo para acceder a Figma.
-2. Haga clic en la vista previa para obtener una imagen más grande.
-
-Asegúrate de reemplazar "URL_Imagen_1", "URL_Imagen_2", etc., con las URLs reales de las imágenes de vista previa en Figma.
-
-### Instrucciones
-1. Haga clic en el nombre del espacio de trabajo para acceder a Figma.
-2. Haga clic en la vista previa para obtener una imagen más grande.
-
-Asegúrate de reemplazar "URL_Espacio_1", "URL_Imagen_1", etc., con las URLs reales de tus espacios de trabajo y las imágenes de vista previa en Figma.
-
-Este código creará una tabla en tu archivo README con enlaces a los espacios de trabajo y vistas previas en imágenes para una presentación visual.
-
-
 </div>
 
 
-## Estructura de Carpetas
 
-
-
-
-```markdown 
-    ├── .github/ISSUE_TEMPLATE
-    ├── doc                          # Documentación y archivos gif
-    ├── nombreDelJuegoApp            # Carpeta de la aplicación Unity
-    ├── nombreDelJuegoServer         # Carpeta del servidor Node JS y MongoDB
-    ├── nombreDelJuegoWeb            # Carpeta del sitio web Angular
-    ├── .gitignore
-    ├── .gitlab-ci.yml
-    ├── CODE_OF_CONDUCT.md
-    ├── LICENSE
-    └── README.md
-```
-
-
-
------------
-
-
----
-title: "Game Document Design Unity2D game"
-author: ["Yair Cano Hernandez", "OSID: XXXX"]
-date: "2024-02-26"
-subject: "Markdown"
-keywords: [Markdown, Game Document Design Unity Game 2D]
-subtitle: "OSCP Exam Report"
-lang: "en"
-titlepage: true
-titlepage-color: "1E90FF"
-titlepage-text-color: "FFFAFA"
-titlepage-rule-color: "FFFAFA"
-titlepage-rule-height: 2
-book: true
-classoption: oneside
-code-block-font-size: \scriptsize
-
-
----
 
 # 2D Unity Game Document design
 
