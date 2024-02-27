@@ -99,11 +99,17 @@
 
 ![Juego de Plataforma 2D](https://ruta/a/tu/gif/animacion.gif)
 
-## Capturas de Pantalla del Juego
+## Espacios de trabajo de todos los diseños figma
 
-| Nivel de Inicio | Jugabilidad en Acción | Enfrentando a Poderosos Jefes | Explorando Nuevos Mundos |
-| :--------------: | :---------------------: | :-----------------------------: | :-------------------------: |
-| ![Nivel de Inicio](https://ruta/a/tu/imagen/nivel-inicio.PNG) | ![Jugabilidad en Acción](https://ruta/a/tu/imagen/jugabilidad-accion.PNG) | ![Enfrentando a Poderosos Jefes](https://ruta/a/tu/imagen/enfrentando-jefes.PNG) | ![Explorando Nuevos Mundos](https://ruta/a/tu/imagen/explorando-mundos.PNG) |
+
+<div align="center">
+
+
+![figma](https://github.com/cano696969/Unity2D/assets/158393938/32312066-2d7c-4abe-9d4f-9f9a98e9820d)
+
+
+</div>
+
 
 ## Estructura de Carpetas
 
