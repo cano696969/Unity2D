@@ -11,7 +11,7 @@ public class menulevel : MonoBehaviour
 
     public void uno()
     {
-           SceneManager.LoadScene("SampleScene");
+           SceneManager.LoadScene("GameplayScene 4");
     }
 
 
