@@ -108,6 +108,23 @@
 ![figma](https://github.com/cano696969/Unity2D/assets/158393938/32312066-2d7c-4abe-9d4f-9f9a98e9820d)
 
 
+## Espacios de Trabajo en Figma
+
+| Espacio de Trabajo | Vista Previa |
+| ------------------- | ------------ |
+| [Espacio 1]([URL_Espacio_1](https://www.figma.com/file/BGvopK6bY3Qu4n6AKdc0PQ/ADDD--Game-UI---Lower-Decks-2D-Game-(Community)?type=design&node-id=741%3A238&mode=design&t=iwMebSNROxzwp88P-1)) | ![Vista Previa 1](URL_Imagen_1) |
+| [Espacio 2]([URL_Espacio_2](https://www.figma.com/file/rWEsMv1Ws8pwVuTi2wD63N/Gaming-Website-UI-Landing-Page-AC-Valhalla-(Community)?type=design&node-id=206%3A16279&mode=design&t=od0Oq8T0aWvzD4he-1)) | ![Vista Previa 2](URL_Imagen_2) |
+| [Espacio 3](https://www.figma.com/file/kr28KguaGgQPt4pEFrlj42/Figma-Unity-Bridge-3D?type=design&node-id=806%3A2575&mode=design&t=9Gq9uQAaHrvjXbaw-1) | ![Vista Previa 3](URL_Imagen_3) |
+
+### Instrucciones
+1. Haga clic en el nombre del espacio de trabajo para acceder a Figma.
+2. Haga clic en la vista previa para obtener una imagen más grande.
+
+Asegúrate de reemplazar "URL_Espacio_1", "URL_Imagen_1", etc., con las URLs reales de tus espacios de trabajo y las imágenes de vista previa en Figma.
+
+Este código creará una tabla en tu archivo README con enlaces a los espacios de trabajo y vistas previas en imágenes para una presentación visual.
+
+
 </div>
 
 
